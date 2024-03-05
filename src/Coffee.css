@@ -1,0 +1,20 @@
+.body{
+    background-color: royalblue;
+}
+.container{
+
+    float: left;
+    padding: 60px;
+    margin: 80px;
+    text-align: center;
+    height: 2px;
+
+}
+
+.text{
+    text-align: center;
+    color: red;
+    font-size: 40px
+    
+
+}
