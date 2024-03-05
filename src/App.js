@@ -1,7 +1,12 @@
-import React from 'react'
+import logo from './logo.svg';
+import './App.css';
 
-export default function Coffe() {
+function App() {
   return (
-    <div>Coffe</div>
-  )
+    <div className="App">
+      <h1>Hello World-1</h1>
+    </div>
+  );
 }
+
+export default App;
