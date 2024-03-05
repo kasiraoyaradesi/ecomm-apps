@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Automati deployc</h1>
+      <h1>Automati deploy</h1>
     </div>
   );
 }
